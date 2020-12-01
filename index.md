@@ -77,21 +77,21 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 ## Committees
 
 ### Workshop Chairs
-- Francesco Betti Sorbelli: Missouri University of Science and Technology, USA
-- Dimitrios Zorbas: Nazarbayev University, Computer Science Department, Kazakhstan / Tyndall National Institute, UCC, Ireland
+- **Francesco Betti Sorbelli**: Missouri University of Science and Technology, USA
+- **Dimitrios Zorbas**: Nazarbayev University, Computer Science Department, Kazakhstan / Tyndall National Institute, UCC, Ireland
   
 ### Steering Committee
-- Enrico Natalizio: University of Loraine, France
-- Maria Cristina Pinotti: University of Perugia, Italy
+- **Enrico Natalizio**: University of Loraine, France
+- **Maria Cristina Pinotti**: University of Perugia, Italy
   
 ### Program Committee
 - TBD
 
 ### Publicity Chair
-- Federico Corò: Sapienza University of Rome
+- **Federico Corò**: Sapienza University of Rome
 
 ### Web Chair
-- Francesco Betti Sorbelli: Missouri University of Science and Technology, USA
+- **Francesco Betti Sorbelli**: Missouri University of Science and Technology, USA
 
   
 ## Past editions
