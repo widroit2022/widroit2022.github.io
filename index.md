@@ -4,6 +4,8 @@ _3rd International Workshop on_
 {: style="text-align: center"}
 
 _Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2021_
+{: style="text-align: center"}
+
 Coral Bay, Paphos, Cyprus
 {: style="text-align: center"}
 
