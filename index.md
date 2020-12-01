@@ -1,9 +1,9 @@
 # Wireless Sensors & Drones in IoT (Wi-DroIT 2021)
 
-_3rd International Workshop on
+_3rd International Workshop on_
 {: style="text-align: center"}
 
-Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2021_
+_Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2021_
 Coral Bay, Paphos, Cyprus
 {: style="text-align: center"}
 
@@ -65,6 +65,8 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 - **Steering Committee**:
   - Enrico Natalizio: University of Loraine, France
   - Maria Cristina Pinotti: University of Perugia, Italy
-
-
+- **Publicity Chair**:
+  - Federico Corò: Sapienza University of Rome
+- **Web Chair**:
+  - Francesco Betti Sorbelli: Missouri University of Science and Technology, USA
 
