@@ -55,6 +55,11 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 - **Camera Ready**: May 7, 2021
 - **Early Registration**: TBD
 
+## Committees
+
+- **Workshop Chairs**:
+-- Francesco Betti Sorbelli: Missouri University of Science and Technology, USA
+-- Dimitrios Zorbas: Nazarbayev University, Computer Science Department, Kazakhstan / Tyndall National Institute, UCC, Ireland
 
 
 
