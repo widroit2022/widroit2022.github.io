@@ -82,7 +82,7 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
   
 ### Steering Committee
 - **Enrico Natalizio**: University of Loraine, France
-- **Maria Cristina Pinotti**: University of Perugia, Italy
+- **Cristina M. Pinotti**: University of Perugia, Italy
   
 ### Program Committee
 - TBD
