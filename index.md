@@ -62,7 +62,9 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 - **Workshop Chairs**:
   - Francesco Betti Sorbelli: Missouri University of Science and Technology, USA
   - Dimitrios Zorbas: Nazarbayev University, Computer Science Department, Kazakhstan / Tyndall National Institute, UCC, Ireland
-
+- **Steering Committee**:
+  - Enrico Natalizio: University of Loraine, France
+  - Maria Cristina Pinotti: University of Perugia, Italy
 
 
 
