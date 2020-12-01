@@ -67,6 +67,8 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 - **Steering Committee**:
   - Enrico Natalizio: University of Loraine, France
   - Maria Cristina Pinotti: University of Perugia, Italy
+- **Program Committee**:
+  - TBD
 - **Publicity Chair**:
   - Federico Corò: Sapienza University of Rome
 - **Web Chair**:
