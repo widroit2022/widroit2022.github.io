@@ -1,12 +1,12 @@
 ## Wireless Sensors & Drones in IoT (Wi-DroIT 2021)
 
-3rd International Workshop on 
-Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2021
+_3rd International Workshop on 
+Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2021_
 Coral Bay, Paphos, Cyprus
 
-June  7–9, 2021
+**June  7–9, 2021**
 
-co-located with [DCOSS 2021](https://dcoss.org/)
+**co-located with [DCOSS 2021](https://dcoss.org/)**
 
 
 ### Scope and Topics of Interest
