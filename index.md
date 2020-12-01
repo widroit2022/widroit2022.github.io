@@ -44,6 +44,14 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 - Energy-efficient UAV communications
 - Machine learning for UAV communications
 
+## Important dates
+
+- **Abstract Submission**: March 7, 2021
+- **Paper Submission**: March 14, 2021
+- **Acceptance Notification**: April 7, 2021
+- **Camera Ready**: May 7, 2021
+- **Early Registration**: TBD
+
 
 
 
