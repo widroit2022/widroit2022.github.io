@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Wi-DroIT 2021
 
-You can use the [editor on GitHub](https://github.com/widroit2021/widroit2021.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+3rd International Workshop on 
+Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2021
+Coral Bay, Paphos, Cyprus
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+June  7–9, 2021
+
+co-located with [DCOSS 2021](https://dcoss.org/)
+
 
 ### Markdown
 
