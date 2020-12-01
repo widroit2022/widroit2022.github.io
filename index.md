@@ -18,7 +18,7 @@ Coral Bay, Paphos, Cyprus
 
 Recently, the rapid development of Unmanned Autonomous Vehicles (UAVs), also known as drones, has highlighted a plethora of emergent applications such as infrastructure inspection and surveillance, smart agriculture, seek and rescue, parcel delivery, communications, and post-disaster recovery.
 In all these applications, UAVs may coexist with ground Internet of Things (IoT) devices. For example, UAVs autonomously perform remote sensing relaying the collected data by the sensors. Moreover, single or multiple UAVs can cooperatively collaborate providing services that require efficient protocols where multiple objectives and constraints should be accounted for.
-{: .text-justify}
+{: style="text-align: justify"}
 
 For this workshop, we seek papers that combine the design of algorithms and testbed implementations to develop the theoretical foundations for UAVs as well as the synergies with IoT devices. 
 The numerous emergent applications raised by IoT may require an interdisciplinary approach, involving techniques from algorithm foundations and different areas, such as computer networks, artificial intelligence, concurrent, parallel and distributed computing, security, digital signal, image and sound processing.
