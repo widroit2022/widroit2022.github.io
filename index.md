@@ -1,15 +1,17 @@
 # Wireless Sensors & Drones in IoT (Wi-DroIT 2021)
 
-text
+_3rd International Workshop on
 {: style="text-align: center"}
 
-_3rd International Workshop on 
 Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2021_
 Coral Bay, Paphos, Cyprus
+{: style="text-align: center"}
 
 **June  7–9, 2021**
+{: style="text-align: center"}
 
 **co-located with [DCOSS 2021](https://dcoss.org/)**
+{: style="text-align: center"}
 
 
 ## Scope and Topics of Interest
@@ -58,8 +60,8 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 ## Committees
 
 - **Workshop Chairs**:
--- Francesco Betti Sorbelli: Missouri University of Science and Technology, USA
--- Dimitrios Zorbas: Nazarbayev University, Computer Science Department, Kazakhstan / Tyndall National Institute, UCC, Ireland
+  - Francesco Betti Sorbelli: Missouri University of Science and Technology, USA
+  - Dimitrios Zorbas: Nazarbayev University, Computer Science Department, Kazakhstan / Tyndall National Institute, UCC, Ireland
 
 
 
