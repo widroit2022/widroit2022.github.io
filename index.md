@@ -22,7 +22,7 @@ In all these applications, UAVs may coexist with ground Internet of Things (IoT)
 
 For this workshop, we seek papers that combine the design of algorithms and testbed implementations to develop the theoretical foundations for UAVs as well as the synergies with IoT devices. 
 The numerous emergent applications raised by IoT may require an interdisciplinary approach, involving techniques from algorithm foundations and different areas, such as computer networks, artificial intelligence, concurrent, parallel and distributed computing, security, digital signal, image and sound processing.
-{: .text-justify}
+{: style="text-align: justify"}
 
 ## Topics of Interest
 
