@@ -83,9 +83,6 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
   - [Wi-DroIT 2020](https://sites.google.com/view/widroit2020/home)
   - [Wi-DroIT 2019](https://widroit2019.loria.fr/)
   
-  ## Supported by
-  ![Loria](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/Laboratoire_lorrain_de_recherche_en_informatique_et_ses_applications_%28logo%29.svg/280px-Laboratoire_lorrain_de_recherche_en_informatique_et_ses_applications_%28logo%29.svg.png)
-  ![Lorraine](https://www.energyintime.eu/wp-content/themes/twentyeleven/images/logo_lorraine.jpg)
-  ![Unipg](https://terrenostre.info/wp-content/uploads/2020/07/unnamed.png)
+
   
 
