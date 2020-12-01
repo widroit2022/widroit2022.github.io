@@ -16,7 +16,7 @@ Coral Bay, Paphos, Cyprus
 {: style="text-align: center"}
 
 
-## Scope and Topics of Interest
+## Scope
 
 Recently, the rapid development of Unmanned Autonomous Vehicles (UAVs), also known as drones, has highlighted a plethora of emergent applications such as infrastructure inspection and surveillance, smart agriculture, seek and rescue, parcel delivery, communications, and post-disaster recovery.
 In all these applications, UAVs may coexist with ground Internet of Things (IoT) devices. For example, UAVs autonomously perform remote sensing relaying the collected data by the sensors. Moreover, single or multiple UAVs can cooperatively collaborate providing services that require efficient protocols where multiple objectives and constraints should be accounted for.
