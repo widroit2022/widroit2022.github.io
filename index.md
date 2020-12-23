@@ -78,7 +78,7 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 
 ### Workshop Chairs
 - **Francesco Betti Sorbelli**: Missouri University of Science and Technology, USA
-- **Dimitrios Zorbas**: Nazarbayev University, Computer Science Department, Kazakhstan / Tyndall National Institute, UCC, Ireland
+- **Dimitrios Zorbas**: Nazarbayev University, Computer Science Department, Kazakhstan
   
 ### Steering Committee
 - **Enrico Natalizio**: University of Loraine, France
