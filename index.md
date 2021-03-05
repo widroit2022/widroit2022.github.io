@@ -6,10 +6,10 @@ _3rd International Workshop on_
 _Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2021_
 {: style="text-align: center"}
 
-Coral Bay, Paphos, Cyprus
+Virtual Event
 {: style="text-align: center"}
 
-**June  7–9, 2021**
+**July 14–16, 2021**
 {: style="text-align: center"}
 
 **co-located with [DCOSS 2021](https://dcoss.org/)**
@@ -17,6 +17,8 @@ Coral Bay, Paphos, Cyprus
 
 
 ## Scope
+
+Due to the evolution of the health pandemic, the event will be held fully on-line. This will not impact the publication of the DCOSS 2021 proceedings and accepted papers will be included in the IEEE Xplore Proceedings. The virtual program will include live sessions of invited speakers and author presentations, possibly supplemented by online material such as the papers, presentation slides and videos.
 
 Recently, the rapid development of Unmanned Autonomous Vehicles (UAVs), also known as drones, has highlighted a plethora of emergent applications such as infrastructure inspection and surveillance, smart agriculture, seek and rescue, parcel delivery, communications, and post-disaster recovery.
 In all these applications, UAVs may coexist with ground Internet of Things (IoT) devices. For example, UAVs autonomously perform remote sensing relaying the collected data by the sensors. Moreover, single or multiple UAVs can cooperatively collaborate providing services that require efficient protocols where multiple objectives and constraints should be accounted for.
