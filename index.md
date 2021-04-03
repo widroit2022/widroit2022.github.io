@@ -82,7 +82,7 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 ## Committees
 
 ### Workshop Chairs
-- **Francesco Betti Sorbelli**: Missouri University of Science and Technology, USA
+- **Francesco Betti Sorbelli**: University of Perugia, Italy
 - **Dimitrios Zorbas**: Nazarbayev University, Computer Science Department, Kazakhstan
   
 ### Steering Committee
@@ -90,13 +90,29 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 - **Cristina M. Pinotti**: University of Perugia, Italy
   
 ### Program Committee
-- TBD
+- **Farshad Ghanei**: University of Buffalo, USA
+- **Tathagata Mukherjee**: University of Alabama, USA
+- **Vijay Shah**: Virginia Tech, USA
+- **Federico Corò**: Missouri University of Science and Technology, USA
+- **Ajay Pratap**: IIT-BHU, India
+- **Angelo Trotta**: University of Bologna, Italy
+- **Lars Wolf**: TU Baunschweig, Germany
+- **Atieh R. Khamesi**: University of Kentucky, USA
+- **Eirini Tsiropoulou**: University of New Mexico, USA
+- **Daniele Palossi**: ETH Zürich, Switzerland
+- **Anil Shende**: Roanoke College, USA
+- **Satyaki Roy**: University of North Carolina, USA
+- **Nicola Roberto Zema**: University of Paris-Saclay, France
+- **Shameek Bhattacharjee**: Western Michigan University, USA
+- **Nirnay Ghosh**: IIEST, India
+- **Paolo Barsocchi**: ISTI - CNR, Italy
+- **Stefano Carpin**: UC Merced, USA
 
 ### Publicity Chair
-- **Federico Corò**: Sapienza University of Rome
+- **Federico Corò**: Missouri University of Science and Technology, USA
 
 ### Web Chair
-- **Francesco Betti Sorbelli**: Missouri University of Science and Technology, USA
+- **Francesco Betti Sorbelli**: University of Perugia, Italy
 
   
 ## Past editions
