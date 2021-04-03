@@ -124,4 +124,3 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 ![Here is the alt text](/ict-logo-small.png "Here is the Title text")
 ![https://www.ictagrifood.eu/](/ict-logo-small.png)
   
-
