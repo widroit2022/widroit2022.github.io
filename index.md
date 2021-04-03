@@ -1,4 +1,6 @@
-# Wireless Sensors & Drones in IoT (Wi-DroIT 2021) ![image](/logo.png)
+# Wireless Sensors & Drones in IoT (Wi-DroIT 2021) 
+![image](/logo.png)
+{: style="text-align: center"}
 
 _3rd International Workshop on_
 {: style="text-align: center"}
