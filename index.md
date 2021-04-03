@@ -121,6 +121,6 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 
 
 ## Supported by
-![image](/ict-logo-small.png)
+![https://sites.google.com/view/widroit2020/home](/ict-logo-small.png)
   
 
