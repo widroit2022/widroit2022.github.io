@@ -15,6 +15,9 @@ Virtual Event
 **co-located with [DCOSS 2021](https://dcoss.org/)**
 {: style="text-align: center"}
 
+**Submission link: [click here](https://easychair.org/conferences/?conf=widroit2021)**
+{: style="text-align: center"}
+
 
 ## Scope
 
