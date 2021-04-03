@@ -118,7 +118,9 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 ## Past editions
 - [Wi-DroIT 2020](https://sites.google.com/view/widroit2020/home)
 - [Wi-DroIT 2019](https://widroit2019.loria.fr/)
-  
+
+
+## Supported by
 
   
 
