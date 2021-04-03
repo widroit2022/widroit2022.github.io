@@ -100,7 +100,7 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 - **Angelo Trotta**: University of Bologna, Italy
 - **Lars Wolf**: TU Baunschweig, Germany
 - **Atieh R. Khamesi**: University of Kentucky, USA
-- **Eirini Tsiropoulou**: University of New Mexico, USA
+- **Eirini-Eleni Tsiropoulou**: University of New Mexico, USA
 - **Daniele Palossi**: ETH Zürich, Switzerland
 - **Anil Shende**: Roanoke College, USA
 - **Satyaki Roy**: University of North Carolina, USA
