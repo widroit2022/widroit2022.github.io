@@ -63,7 +63,7 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 
 ## Important dates
 
-- **Abstract Submission**: May 14, 2021
+- **Abstract Submission**: May 21, 2021
 - **Paper Submission**: May 21, 2021
 - **Acceptance Notification**: June 11, 2021
 - **Camera Ready**: June 18, 2021
