@@ -81,6 +81,15 @@ All submissions should be written in English and submitted as a full paper. Full
 Note that Wi-DroIT does not follow the double-blind review policy. The names and affiliations of all the authors must be present in the submitted manuscript.
 {: style="text-align: justify"}
 
+## List of Accepted Papers
+- Nansong Wu, William Cowles and Alex Kudelin, **Addressing Greenhouse’s Lack of Natural Pollinators - A UAV-Based Artificial Pollination System**
+- Martin Andreoni Lopez, Michael Baddeley, Willian Tessaro Lunardi, Anshul Pandey and Jean-Pierre Giacalone, **Towards Secure Wireless Mesh Networks for UAV Swarm Connectivity: Current Threats, Research, and Opportunities**
+- Elia Cereda, Marco Ferri, Dario Mantegazza, Nicky Zimmerman, Luca M. Gambardella, Jérôme Guzzi, Alessandro Giusti and Daniele Palossi, **Improving the Generalization Capability of DNNs for Ultra-low Power Autonomous Nano-UAVs**
+- Fabian Meyer and Katharina Glock, **Trajectory-based Traveling Salesman Problem for Multirotor UAVs**
+- Lorenzo Palazzetti, **Routing Drones Being Aware of Wind Conditions: a Case Study**
+- Ahmad Traboulsi and Michel Barbeau, **A Reverse Turing Like Test for Quad-copters**
+- Pejman Karegar and Adnan Al-Anbuky, **Travel Path Planning for UAV as a Data Collector for a Sparse WSN**
+
 ## Committees
 
 ### Workshop Chairs
