@@ -82,7 +82,9 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 {: style="text-align: justify"}
 
 ## Program
+
 - 9:00 – 9:15 Opening
+- 
 - 9:15 – 10:00 Keynote: "**Using L-Band Satellite Communication for LALE type UAV Command and Control"**, Gokhan Celik, CEO of A-techSYN Ltd.
 - 10:00 – 10:30 Coffee break
 - 10:30 – 12:00 First session: "Path Planning and Routing"
