@@ -83,18 +83,18 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 
 ## Program
 - 9:00 – 9:15 Opening
-- 9:15 – 10:00 Keynote: **"Using L-Band Satellite Communication for LALE type UAV Command and Control"**, Gokhan Celik, CEO of A-techSYN Ltd.
+- 9:15 – 10:00 Keynote: "**Using L-Band Satellite Communication for LALE type UAV Command and Control"**, Gokhan Celik, CEO of A-techSYN Ltd.
 - 10:00 – 10:30 Coffee break
 - 10:30 – 12:00 First session: "Path Planning and Routing"
-- 10:30 – 11:00 **"Travel Path Planning for UAV as a Data Collector for a Sparse WSN", Pejman Karegar and Adnan Al-Anbuky
-- 11:00 – 11:30 **"Trajectory-based Traveling Salesman Problem for Multirotor UAVs", Fabian Meyer and Katharina Glock
-- 11:30 – 12:00 **"Routing Drones Being Aware of Wind Conditions: a Case Study", Lorenzo Palazzetti
+- 10:30 – 11:00 "**Travel Path Planning for UAV as a Data Collector for a Sparse WSN"**, Pejman Karegar and Adnan Al-Anbuky
+- 11:00 – 11:30 "**Trajectory-based Traveling Salesman Problem for Multirotor UAVs"**, Fabian Meyer and Katharina Glock
+- 11:30 – 12:00 "**Routing Drones Being Aware of Wind Conditions: a Case Study"**, Lorenzo Palazzetti
 - 12:00 – 13:00 Lunch break
 - 13:00 – 15:00 Second session: "Intelligent Systems"
-- 13:00 – 13:30 **"Towards Secure Wireless Mesh Networks for UAV Swarm Connectivity: Current Threats, Research, and Opportunities"**, Martin Andreoni Lopez, Michael Baddeley, Willian Tessaro Lunardi, Anshul Pandey and Jean-Pierre Giacalone
-- 13:30 – 14:00 **"Improving the Generalization Capability of DNNs for Ultra-low Power Autonomous Nano-UAVs"**, Elia Cereda, Marco Ferri, Dario Mantegazza, Nicky Zimmerman, Luca M. Gambardella, Jérôme Guzzi, Alessandro Giusti and Daniele Palossi
-- 14:00 – 14:30 **"A Reverse Turing Like Test for Quad-copters"**, Ahmad Traboulsi and Michel Barbeau
-- 14:30 – 15:00 **"Addressing Greenhouse’s Lack of Natural Pollinators - A UAV-Based Artificial Pollination System"**, Nansong Wu, William Cowles and Alex Kudelin
+- 13:00 – 13:30 "**Towards Secure Wireless Mesh Networks for UAV Swarm Connectivity: Current Threats, Research, and Opportunities**", Martin Andreoni Lopez, Michael Baddeley, Willian Tessaro Lunardi, Anshul Pandey and Jean-Pierre Giacalone
+- 13:30 – 14:00 "**Improving the Generalization Capability of DNNs for Ultra-low Power Autonomous Nano-UAVs**", Elia Cereda, Marco Ferri, Dario Mantegazza, Nicky Zimmerman, Luca M. Gambardella, Jérôme Guzzi, Alessandro Giusti and Daniele Palossi
+- 14:00 – 14:30 "**A Reverse Turing Like Test for Quad-copters"**, Ahmad Traboulsi and Michel Barbeau
+- 14:30 – 15:00 "**Addressing Greenhouse’s Lack of Natural Pollinators - A UAV-Based Artificial Pollination System"**, Nansong Wu, William Cowles and Alex Kudelin
 - 15:00 – 15:15 Closing
 
 ## Committees
