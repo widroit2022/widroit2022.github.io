@@ -11,7 +11,7 @@ _Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2021_
 Virtual Event
 {: style="text-align: center"}
 
-**July 14–16, 2021**
+**July 16, 2021**
 {: style="text-align: center"}
 
 **co-located with [DCOSS 2021](https://dcoss.org/)**
