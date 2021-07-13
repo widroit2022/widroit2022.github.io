@@ -68,6 +68,7 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 - **Acceptance Notification**: June 11, 2021
 - **Camera Ready**: June 18, 2021
 - **Early Registration**: July 5, 2021
+- **Workshop Day**: July 16, 2021
 
 * * *
 
