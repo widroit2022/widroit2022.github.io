@@ -99,6 +99,8 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 - 14:30 – 15:00 "**Addressing Greenhouse’s Lack of Natural Pollinators - A UAV-Based Artificial Pollination System"**, Nansong Wu, William Cowles and Alex Kudelin
 - 15:00 – 15:15 Closing
 
+**Note**: All times are **CEST**
+
 ## Committees
 
 ### Workshop Chairs
