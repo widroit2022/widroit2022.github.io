@@ -2,7 +2,7 @@
 ![image](/logo.png)
 {: style="text-align: center"}
 
-_3rd International Workshop on_
+_4th International Workshop on_
 {: style="text-align: center"}
 
 _Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2022_
