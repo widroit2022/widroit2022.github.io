@@ -1,5 +1,7 @@
 # Wireless Sensors & Drones in IoT
+{: style="text-align: center"}
 # Wi-DroIT 2022
+{: style="text-align: center"}
 ![image](/logo.png)
 {: style="text-align: center"}
 
@@ -22,7 +24,7 @@ Marina Del Rey, LA, California
 {: style="text-align: center"}
 
 
-## COVID-19 Pandemic Planning. 
+## COVID-19 Pandemic Planning
 
 We are optimistic the event will be held physically in LA but we are monitoring the COVID-19 pandemic evolution and a hybrid attendance format may be considered, if needed; in case of a hybrid format, every paper accepted for DCOSS 2022 (presented in person or virtually) will be published in the IEEE proceedings.
 
