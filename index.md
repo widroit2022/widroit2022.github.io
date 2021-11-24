@@ -113,4 +113,3 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 
 ## Supported by
 ![image2](/ict-logo-small.png)
-
