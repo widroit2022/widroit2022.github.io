@@ -8,7 +8,7 @@ _4th International Workshop on_
 _Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2022_
 {: style="text-align: center"}
 
-Virtual Event
+Marina Del Rey, LA, California
 {: style="text-align: center"}
 
 **May 30 -- June 1, 2022**
