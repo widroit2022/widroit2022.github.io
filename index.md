@@ -1,4 +1,5 @@
-# Wireless Sensors & Drones in IoT (Wi-DroIT 2022) 
+# Wireless Sensors & Drones in IoT
+# Wi-DroIT 2022
 ![image](/logo.png)
 {: style="text-align: center"}
 
