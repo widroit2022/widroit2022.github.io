@@ -1,29 +1,31 @@
-# Wireless Sensors & Drones in IoT (Wi-DroIT 2021) 
+# Wireless Sensors & Drones in IoT (Wi-DroIT 2022) 
 ![image](/logo.png)
 {: style="text-align: center"}
 
 _3rd International Workshop on_
 {: style="text-align: center"}
 
-_Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2021_
+_Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2022_
 {: style="text-align: center"}
 
 Virtual Event
 {: style="text-align: center"}
 
-**July 16, 2021**
+**May 30 -- June 1, 2022**
 {: style="text-align: center"}
 
-**co-located with [DCOSS 2021](https://dcoss.org/)**
+**co-located with [DCOSS 2022](https://dcoss.org/)**
 {: style="text-align: center"}
 
-**Submission link: [click here](https://easychair.org/conferences/?conf=widroit2021)**
+**Submission link: [click here](https://easychair.org/conferences/?conf=widroit2022)**
 {: style="text-align: center"}
 
+
+## COVID-19 Pandemic Planning. 
+
+We are optimistic the event will be held physically in LA but we are monitoring the COVID-19 pandemic evolution and a hybrid attendance format may be considered, if needed; in case of a hybrid format, every paper accepted for DCOSS 2022 (presented in person or virtually) will be published in the IEEE proceedings.
 
 ## Scope
-
-Due to the evolution of the health pandemic, the event will be held fully on-line. This will not impact the publication of the DCOSS 2021 proceedings and accepted papers will be included in the IEEE Xplore Proceedings. The virtual program will include live sessions of invited speakers and author presentations, possibly supplemented by online material such as the papers, presentation slides and videos.
 
 Recently, the rapid development of Unmanned Autonomous Vehicles (UAVs), also known as drones, has highlighted a plethora of emergent applications such as infrastructure inspection and surveillance, smart agriculture, seek and rescue, parcel delivery, communications, and post-disaster recovery.
 In all these applications, UAVs may coexist with ground Internet of Things (IoT) devices. For example, UAVs autonomously perform remote sensing relaying the collected data by the sensors. Moreover, single or multiple UAVs can cooperatively collaborate providing services that require efficient protocols where multiple objectives and constraints should be accounted for.
@@ -63,12 +65,12 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 
 ## Important dates
 
-- **Abstract Submission**: May 28, 2021
-- **Paper Submission**: May 28, 2021 (***firm***)
-- **Acceptance Notification**: June 11, 2021
-- **Camera Ready**: June 18, 2021
-- **Early Registration**: July 5, 2021
-- **Workshop Day**: July 16, 2021
+- **Abstract Submission**: TBA
+- **Paper Submission**: March 15, 2022
+- **Acceptance Notification**: TBA
+- **Camera Ready**: TBA
+- **Early Registration**: TBA
+- **Workshop Day**: TBA
 
 * * *
 
@@ -82,53 +84,19 @@ All submissions should be written in English and submitted as a full paper. Full
 Note that Wi-DroIT does not follow the double-blind review policy. The names and affiliations of all the authors must be present in the submitted manuscript.
 {: style="text-align: justify"}
 
-## Program
-
-- 9:00 – 9:15 Opening
-- 9:15 – 10:00 Keynote: "**Using L-Band Satellite Communication for LALE type UAV Command and Control"**, Gokhan Celik, CEO of A-techSYN Ltd.
-- 10:00 – 10:30 Coffee break
-- 10:30 – 12:00 First session: "Path Planning and Routing"
-- 10:30 – 11:00 "**Travel Path Planning for UAV as a Data Collector for a Sparse WSN"**, Pejman Karegar and Adnan Al-Anbuky
-- 11:00 – 11:30 "**Trajectory-based Traveling Salesman Problem for Multirotor UAVs"**, Fabian Meyer and Katharina Glock
-- 11:30 – 12:00 "**Routing Drones Being Aware of Wind Conditions: a Case Study"**, Lorenzo Palazzetti
-- 12:00 – 13:00 Lunch break
-- 13:00 – 15:00 Second session: "Intelligent Systems"
-- 13:00 – 13:30 "**Towards Secure Wireless Mesh Networks for UAV Swarm Connectivity: Current Threats, Research, and Opportunities**", Martin Andreoni Lopez, Michael Baddeley, Willian Tessaro Lunardi, Anshul Pandey and Jean-Pierre Giacalone
-- 13:30 – 14:00 "**Improving the Generalization Capability of DNNs for Ultra-low Power Autonomous Nano-UAVs**", Elia Cereda, Marco Ferri, Dario Mantegazza, Nicky Zimmerman, Luca M. Gambardella, Jérôme Guzzi, Alessandro Giusti and Daniele Palossi
-- 14:00 – 14:30 "**A Reverse Turing Like Test for Quad-copters"**, Ahmad Traboulsi and Michel Barbeau
-- 14:30 – 15:00 "**Addressing Greenhouse’s Lack of Natural Pollinators - A UAV-Based Artificial Pollination System"**, Nansong Wu, William Cowles and Alex Kudelin
-- 15:00 – 15:15 Closing
-
-**Note**: All times are **CEST**
 
 ## Committees
 
 ### Workshop Chairs
 - **Francesco Betti Sorbelli**: University of Perugia, Italy
-- **Dimitrios Zorbas**: Nazarbayev University, Computer Science Department, Kazakhstan
+- **Lu Wang**: Shenzhen University, China
   
 ### Steering Committee
 - **Enrico Natalizio**: University of Loraine, France
 - **Cristina M. Pinotti**: University of Perugia, Italy
   
 ### Program Committee
-- **Farshad Ghanei**: University of Buffalo, USA
-- **Tathagata Mukherjee**: University of Alabama, USA
-- **Vijay Shah**: Virginia Tech, USA
-- **Federico Corò**: Missouri University of Science and Technology, USA
-- **Ajay Pratap**: IIT-BHU, India
-- **Angelo Trotta**: University of Bologna, Italy
-- **Lars Wolf**: TU Baunschweig, Germany
-- **Atieh R. Khamesi**: University of Kentucky, USA
-- **Eirini-Eleni Tsiropoulou**: University of New Mexico, USA
-- **Daniele Palossi**: ETH Zürich, Switzerland
-- **Anil Shende**: Roanoke College, USA
-- **Satyaki Roy**: University of North Carolina, USA
-- **Nicola Roberto Zema**: University of Paris-Saclay, France
-- **Shameek Bhattacharjee**: Western Michigan University, USA
-- **Nirnay Ghosh**: IIEST, India
-- **Paolo Barsocchi**: ISTI - CNR, Italy
-- **Stefano Carpin**: UC Merced, USA
+- TBA
 
 ### Publicity Chair
 - **Federico Corò**: Missouri University of Science and Technology, USA
@@ -138,11 +106,11 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 
   
 ## Past editions
+- [Wi-DroIT 2021](https://widroit2021.github.io)
 - [Wi-DroIT 2020](https://sites.google.com/view/widroit2020/home)
-- [Wi-DroIT 2019](https://widroit2019.loria.fr/)
+- [Wi-DroIT 2019](https://widroit2019.loria.fr)
 
 
 ## Supported by
 ![image2](/ict-logo-small.png)
-![image3](/nu.jpg)
 
