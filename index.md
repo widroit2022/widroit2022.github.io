@@ -96,6 +96,7 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 ### Workshop Chairs
 - **Francesco Betti Sorbelli**: University of Perugia, Italy
 - **Lu Wang**: Shenzhen University, China
+- **Walid Saad**: Virginia Tech, USA
   
 ### Steering Committee
 - **Enrico Natalizio**: University of Loraine, France
