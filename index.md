@@ -82,10 +82,7 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 
 ## Author information
 
-Authors are invited to submit original unpublished manuscripts that demonstrate current research on distributed sensor systems related to WiDroIt topics of interest. Please use the US letter size (8.5 x 11 in) standard IEEE conference LaTeX format or Microsoft Word template available on the link below:
-
-http://www.ieee.org/conferences_events/conferences/publishing/templates.html
-
+Authors are invited to submit original unpublished manuscripts that demonstrate current research on distributed sensor systems related to WiDroIt topics of interest. Please use the US letter size (8.5 x 11 in) standard IEEE conference LaTeX format or Microsoft Word template available [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html):
 {: style="text-align: justify"}
 
 All submissions should be written in English and submitted as a full paper. Full papers should have a maximum of eight (8) printed pages including figures and references. Full papers are expected to describe fully developed ideas with a thorough evaluation.
