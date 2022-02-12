@@ -71,10 +71,10 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 
 ## Important dates
 
-- **Abstract Submission**: TBA
+- **Abstract Submission**: March 8, 2022
 - **Paper Submission**: March 15, 2022
-- **Acceptance Notification**: TBA
-- **Camera Ready**: TBA
+- **Acceptance Notification**: April 15, 2022
+- **Camera Ready**: April 22, 2022
 - **Early Registration**: TBA
 - **Workshop Day**: TBA
 
