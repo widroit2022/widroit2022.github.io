@@ -28,7 +28,8 @@ Marina Del Rey, LA, California, US
 
 ## COVID-19 Pandemic Planning
 
-We are optimistic the event will be held physically in LA but we are monitoring the COVID-19 pandemic evolution and a hybrid attendance format may be considered, if needed; in case of a hybrid format, every paper accepted for DCOSS 2022 (presented in person or virtually) will be published in the IEEE proceedings.
+Unless substantial, unforeseen developments occur, DCOSS 2022 will be held as a physical, full in person event, at a high quality venue which pays special attention to hygiene and safety. At least one author of each accepted paper must register for the conference and attend it. Remote presentation of a paper may exceptionally be allowed in special cases (travel bans, medical issues) when physical participation is not possible.
+Every paper accepted for DCOSS 2022 (presented in person or virtually) will be published in the IEEE proceedings.
 {: style="text-align: justify"}
 
 ## Scope
