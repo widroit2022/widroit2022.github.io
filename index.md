@@ -92,6 +92,25 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 
 
 ## Committees
+- **Paolo Barsocchi**: CNR-ISTI
+- **Alessandro Brighente**: University of Padova
+- **Federico Corò**: Missouri University of Science and Technology: USA
+- **Wan Du**: University of California: Merced
+- **Farshad Ghanei**: University at Buffalo
+- **Nirnay Ghosh**: Indian Institute Engineering Science and Technology: Shibpur (IIESTS)
+- **Tathagata Mukherjee**: University of Alabama in Huntsville
+- **Alfredo Navarra**: Università degli Studi di Perugia
+- **Ajay Pratap**: IIT (BHU) Varanasi India
+- **Chengyi Qu**: University of Missouri
+- **Satyaki Roy**: University of North Carolina: Chapel Hill
+- **Savio Sciancalepore**: Eindhoven University of Technology (TU/e)
+- **Vijay Shah**: George Mason University
+- **Yogesh Simmhan**: Indian Institute of Science: IISc
+- **Florin Stoican**: ACSE - **Politehnica University of Bucharest
+- **Angelo Trotta**: University of Bologna
+- **Eirini Tsiropoulou**: University of New Mexico
+- **Nicola Roberto Zema**: University of Paris-Saclay
+- **Dimitrios Zorbas**: Tyndall National Institute
 
 ### Workshop Chairs
 - **Francesco Betti Sorbelli**: University of Perugia, Italy
