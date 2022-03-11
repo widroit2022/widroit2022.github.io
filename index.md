@@ -106,7 +106,7 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 - **Savio Sciancalepore**: Eindhoven University of Technology (TU/e)
 - **Vijay Shah**: George Mason University
 - **Yogesh Simmhan**: Indian Institute of Science: IISc
-- **Florin Stoican**: ACSE - **Politehnica University of Bucharest
+- **Florin Stoican**: ACSE - Politehnica University of Bucharest
 - **Angelo Trotta**: University of Bologna
 - **Eirini Tsiropoulou**: University of New Mexico
 - **Nicola Roberto Zema**: University of Paris-Saclay
