@@ -100,6 +100,7 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 - **Nirnay Ghosh**: Indian Institute Engineering Science and Technology: Shibpur (IIESTS)
 - **Tathagata Mukherjee**: University of Alabama in Huntsville
 - **Alfredo Navarra**: Università degli Studi di Perugia
+- **Daniele Palossi**: ETH Zürich
 - **Ajay Pratap**: IIT (BHU) Varanasi India
 - **Chengyi Qu**: University of Missouri
 - **Satyaki Roy**: University of North Carolina: Chapel Hill
