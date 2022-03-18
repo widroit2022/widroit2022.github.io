@@ -92,6 +92,17 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 
 
 ## Committees
+
+### Workshop Chairs
+- **Francesco Betti Sorbelli**: University of Perugia, Italy
+- **Walid Saad**: Virginia Tech, USA
+- **Lu Wang**: Shenzhen University, China
+  
+### Steering Committee
+- **Enrico Natalizio**: University of Loraine, France
+- **Cristina M. Pinotti**: University of Perugia, Italy
+  
+### Program Committee
 - **Paolo Barsocchi**: CNR-ISTI
 - **Alessandro Brighente**: University of Padova
 - **Federico Corò**: Missouri University of Science and Technology: USA
@@ -112,18 +123,6 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 - **Eirini Tsiropoulou**: University of New Mexico
 - **Nicola Roberto Zema**: University of Paris-Saclay
 - **Dimitrios Zorbas**: Tyndall National Institute
-
-### Workshop Chairs
-- **Francesco Betti Sorbelli**: University of Perugia, Italy
-- **Walid Saad**: Virginia Tech, USA
-- **Lu Wang**: Shenzhen University, China
-  
-### Steering Committee
-- **Enrico Natalizio**: University of Loraine, France
-- **Cristina M. Pinotti**: University of Perugia, Italy
-  
-### Program Committee
-- TBA
 
 ### Publicity Chair
 - **Federico Corò**: Missouri University of Science and Technology, USA
