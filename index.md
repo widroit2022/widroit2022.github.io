@@ -16,7 +16,7 @@ _Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2022_
 Marina Del Rey, LA, California, US
 {: style="text-align: center"}
 
-**May 30 -- June 1, 2022**
+**May 30, 2022**
 {: style="text-align: center"}
 
 **co-located with [DCOSS 2022](https://dcoss.org/)**
@@ -75,10 +75,59 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 - **Paper Submission**: **April 1, 2022 AoE (firm)**
 - **Acceptance Notification**: April 21, 2022
 - **Camera Ready**: April 27, 2022
-- **Early Registration**: TBA
-- **Workshop Day**: TBA
+- **Early Registration**: May 2, 2022
+- **Workshop Day**: May 30, 2022
 
 * * *
+
+## Program
+
+May 30
+
+9.00-10.30 Keynote (DCOSS)
+10.30-11.00 coffee break
+
+11.00 opening Widroit
+
+### Session 1 (3 full papers)
+
+11.00-11.30
+Kyle Thompson, Dominik Walter, Roman Maksymiuk, Roey Mevorach, Gaurav Joshi and Franz J. Kurfess
+UavSim: An Open-Source Simulator for Multiple UAV Path Planning
+
+11.30-12.00
+Mark Allison and Matthew Spradling
+Modeling Sub-Team Formations for Heterogeneous Multi-Robot Systems Using Colored Petri-Net Semantics
+
+12.00-12.30
+Leonardo Montecchiari, Dario Albani, Angelo Trotta, Marco Di Felice and Enrico Natalizio
+Uhura: a Software Framework for Swarm Management in Multi-Radio Robotic Networks
+
+12.30-14.00 lunch break
+
+### Session 2 (3 full papers)
+
+14.00-14.30
+Alexander Lianides, Isaac Chan, Mohammed Ismail, Ian Harshbarger, Marco Levorato, Davide Callegaro and Sharon Contreras
+3D Object Detection for Aerial Platforms via Edge Computing: An Experimental Evaluation
+
+14.30-15.00
+Steve McGuire and Harel Biggie
+Heterogeneous Ground-Air Autonomous Vehicle Networking in Austere Environments: Practical Implementation of a Mesh Network in the DARPA Subterranean Challenge
+
+15.00-15.30
+Leandro R. Costa, Daniel Aloise, Luca G. Gianoli and Andrea Lodi
+OptiMaP: swarm-powered Optimized 3D Mapping Pipeline for emergency response operations
+
+15.30-16.00 coffee break
+
+### Session 3 (1 short paper)
+
+16.00-16.30
+Masud Ahmed, Naima Khan, Pretom Roy Ovi, Nirmalya Roy, Sanjay Purushotham, Aryya Gangopadhyay and Suya You
+GADAN: Generative Adversarial Domain Adaptation Network For Debris Detection Using Drone
+
+16.30 closing Widroit
 
 ## Author information
 
