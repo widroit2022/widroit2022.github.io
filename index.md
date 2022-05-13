@@ -108,7 +108,7 @@ Uhura: a Software Framework for Swarm Management in Multi-Radio Robotic Networks
 ### Session 2 (3 full papers)
 
 14.00-14.30
-Alexander Lianides, Isaac Chan, Mohammed Ismail, Ian Harshbarger, Marco Levorato, Davide Callegaro and Sharon Contreras
+Alexander Lianides, Isaac Chan, Mohamed Ismail, Ian Harshbarger, Marco Levorato, Davide Callegaro and Sharon Contreras
 3D Object Detection for Aerial Platforms via Edge Computing: An Experimental Evaluation
 
 14.30-15.00
