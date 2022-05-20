@@ -93,11 +93,11 @@ May 30
 
 11.00-11.30
 Kyle Thompson, Dominik Walter, Roman Maksymiuk, Roey Mevorach, Gaurav Joshi and Franz J. Kurfess
- UavSim: An Open-Source Simulator for Multiple UAV Path Planning
+-UavSim: An Open-Source Simulator for Multiple UAV Path Planning
 
 11.30-12.00
 Mark Allison and Matthew Spradling
- Modeling Sub-Team Formations for Heterogeneous Multi-Robot Systems Using Colored Petri-Net Semantics
+-Modeling Sub-Team Formations for Heterogeneous Multi-Robot Systems Using Colored Petri-Net Semantics
 
 12.00-12.30
 Leonardo Montecchiari, Dario Albani, Angelo Trotta, Marco Di Felice and Enrico Natalizio
