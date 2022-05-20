@@ -93,15 +93,15 @@ May 30
 
 11.00-11.30
 Kyle Thompson, Dominik Walter, Roman Maksymiuk, Roey Mevorach, Gaurav Joshi and Franz J. Kurfess
-UavSim: An Open-Source Simulator for Multiple UAV Path Planning
+ UavSim: An Open-Source Simulator for Multiple UAV Path Planning
 
 11.30-12.00
 Mark Allison and Matthew Spradling
-Modeling Sub-Team Formations for Heterogeneous Multi-Robot Systems Using Colored Petri-Net Semantics
+ Modeling Sub-Team Formations for Heterogeneous Multi-Robot Systems Using Colored Petri-Net Semantics
 
 12.00-12.30
 Leonardo Montecchiari, Dario Albani, Angelo Trotta, Marco Di Felice and Enrico Natalizio
-Uhura: a Software Framework for Swarm Management in Multi-Radio Robotic Networks
+ Uhura: a Software Framework for Swarm Management in Multi-Radio Robotic Networks
 
 12.30-14.00 lunch break
 
@@ -109,15 +109,15 @@ Uhura: a Software Framework for Swarm Management in Multi-Radio Robotic Networks
 
 14.00-14.30
 Alexander Lianides, Isaac Chan, Mohamed Ismail, Ian Harshbarger, Marco Levorato, Davide Callegaro and Sharon Contreras
-3D Object Detection for Aerial Platforms via Edge Computing: An Experimental Evaluation
+ 3D Object Detection for Aerial Platforms via Edge Computing: An Experimental Evaluation
 
 14.30-15.00
 Steve McGuire and Harel Biggie
-Heterogeneous Ground-Air Autonomous Vehicle Networking in Austere Environments: Practical Implementation of a Mesh Network in the DARPA Subterranean Challenge
+ Heterogeneous Ground-Air Autonomous Vehicle Networking in Austere Environments: Practical Implementation of a Mesh Network in the DARPA Subterranean Challenge
 
 15.00-15.30
 Leandro R. Costa, Daniel Aloise, Luca G. Gianoli and Andrea Lodi
-OptiMaP: swarm-powered Optimized 3D Mapping Pipeline for emergency response operations
+ OptiMaP: swarm-powered Optimized 3D Mapping Pipeline for emergency response operations
 
 15.30-16.00 coffee break
 
@@ -125,7 +125,7 @@ OptiMaP: swarm-powered Optimized 3D Mapping Pipeline for emergency response oper
 
 16.00-16.30
 Masud Ahmed, Naima Khan, Pretom Roy Ovi, Nirmalya Roy, Sanjay Purushotham, Aryya Gangopadhyay and Suya You
-GADAN: Generative Adversarial Domain Adaptation Network For Debris Detection Using Drone
+ GADAN: Generative Adversarial Domain Adaptation Network For Debris Detection Using Drone
 
 16.30 closing Widroit
 
